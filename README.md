@@ -109,6 +109,3 @@ import { menuNavigation  } from  "menu-navigation";
 	<td align="center"><img src="https://imgur.com/OQJ8LdO.jpg" height="250" alt="Desktop With Keyboard Navigation"></td>
   </tr>
 </table>
-
-
-[Return to Black Magic Development Guidelines](../../README.md)
